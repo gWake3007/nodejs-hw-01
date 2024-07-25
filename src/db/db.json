@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "c241eb66-3e1b-471b-a255-0f822a24e692",
+    "name": "Omar Wunsch",
+    "phone": "(415) 256-7456",
+    "email": "Judy_Lang82@yahoo.com",
+    "job": "National Directives Orchestrator"
+  },
+  {
+    "id": "4622a007-22ec-4c9b-bbb7-dd81066069ab",
+    "name": "Marian Dicki",
+    "phone": "(429) 610-1241 x212",
+    "email": "Eduardo_Kiehn72@gmail.com",
+    "job": "District Metrics Facilitator"
+  },
+  {
+    "id": "4588ed4a-62c8-4067-a442-c6cc81f5a9ff",
+    "name": "Preston Bergnaum",
+    "phone": "(673) 857-7410",
+    "email": "Heath.Smith10@yahoo.com",
+    "job": "International Implementation Analyst"
+  }
+]
